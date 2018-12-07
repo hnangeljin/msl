@@ -150,3 +150,7 @@ already-awakened-close:575,215
 refill-close:710,110
 battle-defeat-continue:350,350
 dragon-sigils-empty-confirm:400,315
+connection-bad-retry:345,320
+friend-gifts:286,128
+inbox-accept-all:640,175
+battle-astromon-full:400,300
