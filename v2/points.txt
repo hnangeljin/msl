@@ -158,4 +158,5 @@ battle-astromon-full:400,300
 dragon-dungeons-b7:666, 215
 dragon-dungeons-b8:666, 285
 dragon-dungeons-b9:666, 357
+dragon-dungeons-b10:666, 427
 pause-close:325,330
