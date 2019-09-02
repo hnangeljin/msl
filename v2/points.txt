@@ -13,7 +13,7 @@ golem-dungeons-b7:626,213
 golem-dungeons-b8:626,286
 golem-dungeons-b9:626,361
 golem-dungeons-b10:626,429
-map-battle-play:706,492
+map-battle-play:706,464
 battle-auto:33,214
 boss:402,239
 quick-restart:455,267
