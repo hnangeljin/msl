@@ -161,3 +161,4 @@ dragon-dungeons-b9:666, 357
 dragon-dungeons-b10:666, 427
 pause-close:325,330
 tab-inbox:33,200
+tab-inbox-accept-all:645,176
