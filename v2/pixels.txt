@@ -71,7 +71,7 @@ monsters-not-awakened-first:439,198,0x1C1311|461,172,0x7D624D
 monsters-not-awakened-second:501,198,0x1C1311|523,172,0x7D624D
 monsters-not-awakened-third:563,198,0x1C1311|586,172,0x7D624D
 monsters-awakened-enabled:478,391,0xFFFF8F
-monsters-evolve-enabled:674,391,0xFEFD7
+monsters-evolve-enabled:675,393,0xECCB3D
 monsters-evolution-second:356,129,0xD9D5D0
 monsters-evolution-third:360,129,0xDDD9D4
 monsters-one-star:399,129,0xE1BC87
