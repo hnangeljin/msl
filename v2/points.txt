@@ -146,7 +146,7 @@ crash-okay:474,319
 village-missions-popup-close:74,333
 village-events-close:744,72
 village-pack-close:779,108
-autobattle-prompt-close:605,120
+autobattle-prompt-close:646,101
 already-awakened-close:575,215
 refill-close:710,110
 battle-defeat-continue:350,350
