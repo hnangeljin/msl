@@ -70,7 +70,7 @@ battle-item-gold:399,175,0x9A450C|399,164,0xF5D444|406,144,0xFDF953/399,175,0x86
 monsters-not-awakened-first:439,198,0x1C1311|461,172,0x7D624D
 monsters-not-awakened-second:501,198,0x1C1311|523,172,0x7D624D
 monsters-not-awakened-third:563,198,0x1C1311|586,172,0x7D624D
-monsters-awakened-enabled:478,391,0xFFFF8F
+monsters-awakened-enabled:478,391,0xFFFE76
 monsters-evolve-enabled:675,393,0xECCB3D
 monsters-evolution-second:356,129,0xD9D5D0
 monsters-evolution-third:360,129,0xDDD9D4
