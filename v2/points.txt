@@ -65,8 +65,7 @@ astroleague-confirm:399,309
 bingo-icon:113,97
 bingo-button:600,346
 bingo-reward:448,331
-tab-expand:6,247
-tab-friends:96,204
+tab-friends:70,98
 friends-list:337,126
 send-to-all:711,171
 friends-astrogems:727,229
@@ -160,6 +159,6 @@ dragon-dungeons-b8:666, 285
 dragon-dungeons-b9:666, 357
 dragon-dungeons-b10:666, 427
 pause-close:325,330
-tab-inbox:33,200
+tab-inbox:25,97
 tab-inbox-accept-all:645,176
 map-battle-auto-capture:652,383
