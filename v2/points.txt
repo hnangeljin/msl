@@ -163,3 +163,4 @@ tab-inbox:25,97
 tab-inbox-accept-all:645,176
 map-battle-auto-capture:652,383
 village-trinket:763,280
+summon-tap:717,521
