@@ -62,7 +62,7 @@ awaken-locked-cancel:495,313
 lost-connection-retry:332,322
 astroleague-refresh:712,175
 astroleague-confirm:399,309
-bingo-icon:79,87
+bingo-icon:113,97
 bingo-button:600,346
 bingo-reward:448,331
 tab-expand:6,247
