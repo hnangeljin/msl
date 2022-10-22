@@ -165,3 +165,4 @@ map-battle-auto-capture:652,383
 village-trinket:763,205
 summon-tap:717,521
 battle-gold-cap-ok:339,315
+map-fruit-full-confirm:401,315
