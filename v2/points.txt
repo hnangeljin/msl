@@ -47,7 +47,9 @@ manage-grade4:202,276
 manage-grade5:202,252
 manage-clean-up:721,444
 manage-clean-up-autoselect:362,444
+manage-clean-up-autoselect-ok:399,398
 manage-clean-up-sell:481,444
+manage-clean-up-sell-selected:400,334
 manage-sell-selected:670,438
 manage-sell-confirm:382,327
 manage-x:773,113
