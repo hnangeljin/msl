@@ -139,7 +139,7 @@
 ]
 
 [_Filter:
-	[description: "Gem filtering system. A function will be called with a gem data passed in and will output whether the gem meets the criteria or not."]
+	[description: "Gem filtering system. A function will be called with a gem data passed in and will output whether the gem meets the criteria or not.(new)"]
 	
 	[combo:
 		name: "4*-Filter",
