@@ -152,7 +152,7 @@
 		name: "4*-Types",
 		description: "Types that are included meet the criteria.",
 		default: "",
-		data: "Ferocity,Valor,Tenacity,Vitality,Fortitude,Life,Healing,Protection,Ruin,Conviction,Intuition"
+		data: "Leech,Siphon,Puglist,Reduction,Accuracy,Ferocity,Valor,Tenacity,Vitality,Fortitude,Life,Healing,Protection,Ruin,Conviction,Intuition"
 	]
 	
 	[list:
