@@ -208,7 +208,7 @@
 		name: "6*-Types",
 		description: "Types that are included meet the criteria.",
 		default: "Ferocity,Valor,Tenacity,Vitality,Fortitude,Life,Healing,Protection,Ruin,Conviction,Intuition",
-		data: "Ferocity,Valor,Tenacity,Vitality,Fortitude,Life,Healing,Protection,Ruin,Conviction,Intuition"
+		data: "Leech,Siphon,Puglist,Reduction,Accuracy,Ferocity,Valor,Tenacity,Vitality,Fortitude,Life,Healing,Protection,Ruin,Conviction,Intuition"
 	]
 	
 	[list:
