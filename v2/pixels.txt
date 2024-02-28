@@ -81,3 +81,4 @@ autofill-toggle-off:722,290,0xD4D4D4|735,297,0xD3D3D3|725,300,0xE0E0E0|722,304,0
 not-fully-awakened:585,182,0x7D624D
 map-battle-auto-capture:646,380,0x54EAA5|658,397,0x201111
 quest-daily-not-complete:767,356,0x180C08
+capture-rate-pop-up:672,147,0x070705|668,169,0x4B0FBE|729,203,0xFFB6D3|724,217,0xFFE9BB
