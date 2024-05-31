@@ -53,6 +53,7 @@ manage-clean-up-sell-selected:400,334
 manage-sell-selected:670,438
 manage-sell-confirm:382,327
 manage-x:773,113
+manage-fruit:493,196
 play-again:529,284
 battle-end-exit:400,260
 dungeons-starstone:110,175
