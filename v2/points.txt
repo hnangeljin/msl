@@ -114,7 +114,7 @@ summon-10+1:475,360
 gem-consecutive-upgrades-minus:226,250
 gem-consecutive-upgrades-plus:576,250
 gem-consecutive-upgrades-confirm:400,440
-event-list-close:776,20
+event-list-close:740,20
 tap-to-start:394,469
 summon-popup-close:647,105
 astroleague-offense:459,124
